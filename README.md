@@ -7,7 +7,6 @@
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="btun0.github.io" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="darbs" />
 <meta property="og:description" content="darbs" />
