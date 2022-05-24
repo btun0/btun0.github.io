@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>CSS Template</title>
@@ -185,7 +186,7 @@ Skolas pastāvēšanai iespējams izsekot līdz pat 1211. gadam, kad bīskaps Al
 
 <footer>
   <a href="http://r1g.edu.lv/v/index/">
-<img src="[http://r1g.edu.lv/v/public/articleimgs/logo_160.jpg]" alt="sanaca">
+<img src="(https://user-images.githubusercontent.com/106030914/170083270-e4c08e14-8f73-4dd3-99fb-dc0c344c7c90.jpg)" alt="sanaca">
 </footer>
 
 </body>
