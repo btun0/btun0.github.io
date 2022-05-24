@@ -1,24 +1,4 @@
 <!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="darbs" />
-<meta property="og:description" content="darbs" />
-<link rel="canonical" href="https://btun0.github.io/" />
-<meta property="og:url" content="https://btun0.github.io/" />
-<meta property="og:site_name" content="btun0.github.io" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="btun0.github.io" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"darbs","headline":"btun0.github.io","name":"btun0.github.io","url":"https://btun0.github.io/"}</script>
-
 <html lang="en">
 <head>
 <title>CSS Template</title>
