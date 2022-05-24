@@ -60,6 +60,25 @@ footer {
   color: white;
 }
 
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
 tr:nth-child(even) {
   background-color: #dddddd;
 }
@@ -186,7 +205,7 @@ Skolas pastāvēšanai iespējams izsekot līdz pat 1211. gadam, kad bīskaps Al
 
 <footer>
   <a href="http://r1g.edu.lv/v/index/">
-<img src="(https://user-images.githubusercontent.com/106030914/170083270-e4c08e14-8f73-4dd3-99fb-dc0c344c7c90.jpg)" alt="sanaca">
+<img src="http://r1g.edu.lv/v/public/articleimgs/logo_160.jpg" alt="sanaca" >
 </footer>
 
 </body>
