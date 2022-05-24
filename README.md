@@ -199,8 +199,6 @@ Skolas pastāvēšanai iespējams izsekot līdz pat 1211. gadam, kad bīskaps Al
     <p>Rainis, īstajā vārdā Jānis Pliekšāns, dzimis 1865. gada 11. septembrī Dunavas pagasta "Varslavānos". Tēvs Krišjānis, vairāku pusmuižu nomnieks, bija pietiekami turīgs, un Rainis saņēma ļoti labu izglītību - pabeidza Pēterburgas universitātes Juridisko fakultāti (1888). Strādājis Viļņas apgabaltiesā (1889), vēlāk par advokāta palīgu Jelgavā. No 1891. līdz 1895. gadam bija Jaunās strāvas laikraksta "Dienas Lapa" redaktors. 1894. gadā J. Pliekšāns iepazinās ar Elzu Valteri - dzejnieci Aspaziju, kas jau tolaik bija populāra dramaturģe. Šī tikšanās radīja pavērsienu dzejnieka dzīvē - Aspazija atklāja dzejnieku Raini un lika viņam noticēt, ka vientulībā rakstītā dzeja ir īsta māksla. No pieklājīga un iestīvināta jurista un žurnālista Rainis pārtapa par revolūcijas dzejnieku...</p>
  
     <p>Lai turpinātu lasīt tālāk spied <a href="https://www.letonika.lv/literatura/Section.aspx?f=1&id=2189826" target="_blank">ŠEIT</a><p>
-  </article>
-</section>
 
 <footer>
   <a href="http://r1g.edu.lv/v/index/"><img src="https://camo.githubusercontent.com/2d3c6623372f4bf8ca83545abd6843d16f6b20199c9643cddceee8d892169bbc/687474703a2f2f7231672e6564752e6c762f762f7075626c69632f61727469636c65696d67732f6c6f676f5f3136302e6a7067" alt="sanaca" >
