@@ -185,7 +185,7 @@ Skolas pastāvēšanai iespējams izsekot līdz pat 1211. gadam, kad bīskaps Al
 
 <footer>
   <a href="http://r1g.edu.lv/v/index/">
-<img src="Images/logo.jpg" alt="sanaca">
+<img src="(http://r1g.edu.lv/v/public/articleimgs/logo_160.jpg)" alt="sanaca">
 </footer>
 
 </body>
